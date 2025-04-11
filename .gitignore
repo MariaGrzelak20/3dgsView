@@ -1,0 +1,36 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.suo
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Big Unity Burst stuff
+Library/PackageCache/
+
+# Git LFS (optional)
+*.psd
+*.mp4
+*.fbx
+
+# Ignore custom asset
+Assets/ffffcloud.asset
